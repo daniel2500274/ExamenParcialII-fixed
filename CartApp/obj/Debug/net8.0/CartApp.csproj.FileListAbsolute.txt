@@ -1,0 +1,42 @@
+C:\USPG\programmingII\Examen\CartApp\bin\Debug\net8.0\CartApp.exe
+C:\USPG\programmingII\Examen\CartApp\bin\Debug\net8.0\CartApp.deps.json
+C:\USPG\programmingII\Examen\CartApp\bin\Debug\net8.0\CartApp.runtimeconfig.json
+C:\USPG\programmingII\Examen\CartApp\bin\Debug\net8.0\CartApp.dll
+C:\USPG\programmingII\Examen\CartApp\bin\Debug\net8.0\CartApp.pdb
+C:\USPG\programmingII\Examen\CartApp\obj\Debug\net8.0\CartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\USPG\programmingII\Examen\CartApp\obj\Debug\net8.0\CartApp.AssemblyInfoInputs.cache
+C:\USPG\programmingII\Examen\CartApp\obj\Debug\net8.0\CartApp.AssemblyInfo.cs
+C:\USPG\programmingII\Examen\CartApp\obj\Debug\net8.0\CartApp.csproj.CoreCompileInputs.cache
+C:\USPG\programmingII\Examen\CartApp\obj\Debug\net8.0\CartApp.dll
+C:\USPG\programmingII\Examen\CartApp\obj\Debug\net8.0\refint\CartApp.dll
+C:\USPG\programmingII\Examen\CartApp\obj\Debug\net8.0\CartApp.pdb
+C:\USPG\programmingII\Examen\CartApp\obj\Debug\net8.0\CartApp.genruntimeconfig.cache
+C:\USPG\programmingII\Examen\CartApp\obj\Debug\net8.0\ref\CartApp.dll
+C:\USPG\programmingII\ExamenParcialII\CartApp\bin\Debug\net8.0\CartApp.exe
+C:\USPG\programmingII\ExamenParcialII\CartApp\bin\Debug\net8.0\CartApp.deps.json
+C:\USPG\programmingII\ExamenParcialII\CartApp\bin\Debug\net8.0\CartApp.runtimeconfig.json
+C:\USPG\programmingII\ExamenParcialII\CartApp\bin\Debug\net8.0\CartApp.dll
+C:\USPG\programmingII\ExamenParcialII\CartApp\bin\Debug\net8.0\CartApp.pdb
+C:\USPG\programmingII\ExamenParcialII\CartApp\obj\Debug\net8.0\CartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\USPG\programmingII\ExamenParcialII\CartApp\obj\Debug\net8.0\CartApp.AssemblyInfoInputs.cache
+C:\USPG\programmingII\ExamenParcialII\CartApp\obj\Debug\net8.0\CartApp.AssemblyInfo.cs
+C:\USPG\programmingII\ExamenParcialII\CartApp\obj\Debug\net8.0\CartApp.csproj.CoreCompileInputs.cache
+C:\USPG\programmingII\ExamenParcialII\CartApp\obj\Debug\net8.0\CartApp.dll
+C:\USPG\programmingII\ExamenParcialII\CartApp\obj\Debug\net8.0\refint\CartApp.dll
+C:\USPG\programmingII\ExamenParcialII\CartApp\obj\Debug\net8.0\CartApp.pdb
+C:\USPG\programmingII\ExamenParcialII\CartApp\obj\Debug\net8.0\CartApp.genruntimeconfig.cache
+C:\USPG\programmingII\ExamenParcialII\CartApp\obj\Debug\net8.0\ref\CartApp.dll
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\bin\Debug\net8.0\CartApp.exe
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\bin\Debug\net8.0\CartApp.deps.json
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\bin\Debug\net8.0\CartApp.runtimeconfig.json
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\bin\Debug\net8.0\CartApp.dll
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\bin\Debug\net8.0\CartApp.pdb
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\obj\Debug\net8.0\CartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\obj\Debug\net8.0\CartApp.AssemblyInfoInputs.cache
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\obj\Debug\net8.0\CartApp.AssemblyInfo.cs
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\obj\Debug\net8.0\CartApp.csproj.CoreCompileInputs.cache
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\obj\Debug\net8.0\CartApp.dll
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\obj\Debug\net8.0\refint\CartApp.dll
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\obj\Debug\net8.0\CartApp.pdb
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\obj\Debug\net8.0\CartApp.genruntimeconfig.cache
+C:\Users\erick\src_proyectos_universidad\segundo_semestre\ExamenParcialII\ExamenParcialII - fix\CartApp\obj\Debug\net8.0\ref\CartApp.dll
