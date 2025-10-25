@@ -1,4 +1,4 @@
-﻿namespace CartApp
+﻿namespace CartApp.Models
 {
     public class Item
     {

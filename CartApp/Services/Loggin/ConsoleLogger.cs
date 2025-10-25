@@ -1,6 +1,6 @@
-﻿namespace CartApp
+﻿namespace CartApp.Services.Loggin
 {
-    public class ConsoleLogger
+    public class ConsoleLogger:ILogger
     {
         public void Info(string message)
         {

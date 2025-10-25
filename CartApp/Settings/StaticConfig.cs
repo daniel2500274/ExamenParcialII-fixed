@@ -1,4 +1,4 @@
-﻿namespace CartApp
+﻿namespace CartApp.Settings
 {
     public static class StaticConfig
     {

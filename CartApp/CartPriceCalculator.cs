@@ -1,4 +1,8 @@
-﻿using System.Text;
+﻿using CartApp.Models;
+using CartApp.Services.Loggin;
+using CartApp.Services.Notify;
+using CartApp.Settings;
+using System.Text;
 
 namespace CartApp
 {
@@ -6,6 +10,7 @@ namespace CartApp
     {
         public decimal CalculateTotal(List<Item> items, string? coupon, bool isVip, bool emailReceipt)
         {
+            
             ConsoleLogger logger = new ConsoleLogger();
             logger.Info("Inicio de cálculo de carrito.");
 

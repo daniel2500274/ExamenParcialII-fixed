@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using CartApp.Models;
+using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Net.NetworkInformation;

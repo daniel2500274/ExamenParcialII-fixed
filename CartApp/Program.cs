@@ -1,4 +1,9 @@
-﻿namespace CartApp
+﻿using CartApp.Models;
+using CartApp.Services;
+using CartApp.Settings;
+using CartApp.Core;
+
+namespace CartApp
 {
     internal class Program
     {

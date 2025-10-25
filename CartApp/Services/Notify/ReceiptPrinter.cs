@@ -1,4 +1,7 @@
-﻿namespace CartApp
+﻿using CartApp.Models;
+using CartApp.Settings;
+
+namespace CartApp.Services.Notify
 {
     public class ReceiptPrinter
     {

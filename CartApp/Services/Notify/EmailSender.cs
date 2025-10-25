@@ -1,4 +1,4 @@
-﻿namespace CartApp
+﻿namespace CartApp.Services.Notify
 {
     public class EmailSender
     {
