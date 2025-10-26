@@ -8,6 +8,6 @@ namespace CartApp.Services.Notify.interfaces
 {
     public interface IEmailSender
     {
-         void SendEmail(string recipientEmail, string subjectEmail, string bodyEmail);
+         void Send(string recipientEmail, string subjectEmail, string bodyEmail);
     }
 }

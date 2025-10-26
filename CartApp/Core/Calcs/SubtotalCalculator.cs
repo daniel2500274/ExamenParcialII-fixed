@@ -1,4 +1,5 @@
-﻿using CartApp.Models;
+﻿using CartApp.Core.Calcs.Interfaces;
+using CartApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CartApp.Core.Calcs
 {
-    public class SubtotalCalculator
+    public class SubtotalCalculator : ISubtotalCalculator
     {
         public decimal Calculate(List<Item> items)
         {

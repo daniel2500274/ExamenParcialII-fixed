@@ -16,12 +16,13 @@ namespace CartApp.Core.Calcs
             {
                 return;
             }
-            foreach (var item in items) 
+            foreach (var item in items)
             {
                 if (item.Price < 0)
                 {
                     throw new ArgumentException($"Negative price for item: {item.Name}");
                 }
             }
+        }
     } 
 }

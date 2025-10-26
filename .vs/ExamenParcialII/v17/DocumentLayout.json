@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\cartapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\cartapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\services\\notify\\receiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\services\\notify\\receiptformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910211BB-A799-8630-2BB7-3C7633BC5240}|CartApp.Tests\\CartApp.Tests.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp.tests\\cartpricecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910211BB-A799-8630-2BB7-3C7633BC5240}|CartApp.Tests\\CartApp.Tests.csproj|solutionrelative:cartapp.tests\\cartpricecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\cartpricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\cartpricecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\services\\notify\\receiptprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\services\\notify\\receiptprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\core\\calcs\\cartvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\core\\calcs\\cartvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\services\\notify\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\services\\notify\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\services\\notify\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\services\\notify\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\services\\notify\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\services\\notify\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\services\\notify\\interfaces\\ireceiptprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\services\\notify\\interfaces\\ireceiptprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|c:\\users\\erick\\src_proyectos_universidad\\segundo_semestre\\examenparcialii\\examenparcialii - fix\\cartapp\\core\\discounts\\interfaces\\idiscountrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09766DE9-9EB7-2D57-F414-3BB590EE3E7F}|CartApp\\CartApp.csproj|solutionrelative:cartapp\\core\\discounts\\interfaces\\idiscountrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartApp",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\CartApp.csproj",
+              "RelativeDocumentMoniker": "CartApp\\CartApp.csproj",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\CartApp.csproj",
+              "RelativeToolTip": "CartApp\\CartApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T01:20:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceiptFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\ReceiptFormatter.cs",
+              "RelativeDocumentMoniker": "CartApp\\Services\\Notify\\ReceiptFormatter.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\ReceiptFormatter.cs",
+              "RelativeToolTip": "CartApp\\Services\\Notify\\ReceiptFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T01:03:30.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Program.cs",
+              "RelativeDocumentMoniker": "CartApp\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Program.cs",
+              "RelativeToolTip": "CartApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T01:02:57.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartPriceCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp.Tests\\CartPriceCalculatorTests.cs",
+              "RelativeDocumentMoniker": "CartApp.Tests\\CartPriceCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp.Tests\\CartPriceCalculatorTests.cs",
+              "RelativeToolTip": "CartApp.Tests\\CartPriceCalculatorTests.cs",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:55:36.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\NotificationService.cs",
+              "RelativeDocumentMoniker": "CartApp\\Services\\Notify\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\NotificationService.cs",
+              "RelativeToolTip": "CartApp\\Services\\Notify\\NotificationService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:50:02.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReceiptPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\Interfaces\\IReceiptPrinter.cs",
+              "RelativeDocumentMoniker": "CartApp\\Services\\Notify\\Interfaces\\IReceiptPrinter.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\Interfaces\\IReceiptPrinter.cs",
+              "RelativeToolTip": "CartApp\\Services\\Notify\\Interfaces\\IReceiptPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:43:53.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReceiptPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\ReceiptPrinter.cs",
+              "RelativeDocumentMoniker": "CartApp\\Services\\Notify\\ReceiptPrinter.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\ReceiptPrinter.cs",
+              "RelativeToolTip": "CartApp\\Services\\Notify\\ReceiptPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:43:45.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\Interfaces\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "CartApp\\Services\\Notify\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\Interfaces\\IEmailSender.cs",
+              "RelativeToolTip": "CartApp\\Services\\Notify\\Interfaces\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:41:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\EmailSender.cs",
+              "RelativeDocumentMoniker": "CartApp\\Services\\Notify\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Services\\Notify\\EmailSender.cs",
+              "RelativeToolTip": "CartApp\\Services\\Notify\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:41:46.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDiscountRule.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Core\\Discounts\\Interfaces\\IDiscountRule.cs",
+              "RelativeDocumentMoniker": "CartApp\\Core\\Discounts\\Interfaces\\IDiscountRule.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Core\\Discounts\\Interfaces\\IDiscountRule.cs",
+              "RelativeToolTip": "CartApp\\Core\\Discounts\\Interfaces\\IDiscountRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:39:06.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartPriceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\CartPriceCalculator.cs",
+              "RelativeDocumentMoniker": "CartApp\\CartPriceCalculator.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\CartPriceCalculator.cs",
+              "RelativeToolTip": "CartApp\\CartPriceCalculator.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwEIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:14:58.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartValidator.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Core\\Calcs\\CartValidator.cs",
+              "RelativeDocumentMoniker": "CartApp\\Core\\Calcs\\CartValidator.cs",
+              "ToolTip": "C:\\Users\\erick\\src_proyectos_universidad\\segundo_semestre\\ExamenParcialII\\ExamenParcialII - fix\\CartApp\\Core\\Calcs\\CartValidator.cs",
+              "RelativeToolTip": "CartApp\\Core\\Calcs\\CartValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:54:38.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

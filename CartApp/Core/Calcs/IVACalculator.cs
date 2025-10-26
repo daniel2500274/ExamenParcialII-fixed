@@ -1,5 +1,5 @@
 ﻿using CartApp.Core.Calcs.Interfaces;
-using CartApp.Settings;
+using CartApp.Settings.interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CartApp.Core.Calcs
 {
-    internal class IVACalculator:IIVACalculator
+    public class IVACalculator:IIVACalculator
     {
         private readonly IConfigsDTO _config;
         public IVACalculator(IConfigsDTO config)

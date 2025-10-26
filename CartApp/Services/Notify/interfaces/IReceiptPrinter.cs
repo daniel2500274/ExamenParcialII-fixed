@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CartApp.Services.Notify.interfaces
 {
-    internal interface IReceiptPrinter
+    public interface IReceiptPrinter
     {
         void Print(string receiptText);
     }

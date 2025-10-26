@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CartApp.Services.Notify.interfaces
 {
-    internal interface INotificationService
+    public interface INotificationService
     {
         void SendEmailReceipt(ReceiptsDataDTO data);
         void PrintConsoleReceipt(ReceiptsDataDTO data);

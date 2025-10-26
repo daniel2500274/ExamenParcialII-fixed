@@ -18,9 +18,7 @@ namespace CartApp.Tests
          
         [Test]
         public void EmptyCart_ReturnsZero() //01
-        {
-            // Arrange
-            // Ya no necesitas "new CartPriceCalculator()" aquí, ¡Setup() lo hizo!
+        { 
             var emptyListOfItems = new List<Item>();
             string? coupon = null;
             bool isVIP = false;

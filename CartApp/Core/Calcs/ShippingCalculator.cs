@@ -1,4 +1,5 @@
-﻿using CartApp.Settings;
+﻿using CartApp.Core.Calcs.Interfaces;
+using CartApp.Settings.interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CartApp.Core.Calcs
 {
-    public class ShippingCalculator
+    public class ShippingCalculator : IShippingCalculator
     {
         private readonly IConfigsDTO _config;
 

@@ -1,6 +1,6 @@
 ﻿using CartApp.Core.Calcs.Interfaces;
 using CartApp.Models;
-using CartApp.Settings;
+using CartApp.Settings.interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

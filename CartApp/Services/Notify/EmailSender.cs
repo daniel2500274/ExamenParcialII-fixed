@@ -1,16 +1,17 @@
-﻿namespace CartApp.Services.Notify
+﻿using CartApp.Services.Notify.interfaces;
+
+namespace CartApp.Services.Notify
 {
-    public class EmailSender
-    {
-        public bool Send(string to, string subject, string body)
+    public class EmailSender : IEmailSender
+    { 
+        public void Send(string recipientEmail, string subjectEmail, string bodyEmail)
         {
             Console.WriteLine("\n=== Enviando Email ===");
-            Console.WriteLine($"Para: {to}");
-            Console.WriteLine($"Asunto: {subject}");
+            Console.WriteLine($"Para: {recipientEmail}");
+            Console.WriteLine($"Asunto: {subjectEmail}");
             Console.WriteLine("Contenido:");
-            Console.WriteLine(body);
-            Console.WriteLine("======================\n");
-            return true;
+            Console.WriteLine(bodyEmail);
+            Console.WriteLine("======================\n"); 
         }
     }
 }

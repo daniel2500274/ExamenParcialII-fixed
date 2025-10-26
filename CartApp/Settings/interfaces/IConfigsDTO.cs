@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CartApp.Settings
+namespace CartApp.Settings.interfaces
 {
     //Interfaz para definir la configuración
     public interface IConfigsDTO

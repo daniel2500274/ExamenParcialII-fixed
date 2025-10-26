@@ -1,5 +1,6 @@
-﻿using CartApp.Models;
-using CartApp.Settings;
+﻿using CartApp.Core.Discounts.Interfaces;
+using CartApp.Models;
+using CartApp.Settings.interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CartApp.Core.Discounts
 {
-    public class CouponDiscountRule
+    public class CouponDiscountRule:IDiscountRule
     {
         private readonly IConfigsDTO _configs;
         public CouponDiscountRule (IConfigsDTO configs)
