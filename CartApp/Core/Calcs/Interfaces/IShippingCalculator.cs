@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CartApp.Core.Calculation
+namespace CartApp.Core.Calcs.Interfaces
 {
-    internal interface ICartValidator
+    public interface IShippingCalculator
     {
+        decimal Calculate(decimal subtotal);
     }
 }
