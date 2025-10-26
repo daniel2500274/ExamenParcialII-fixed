@@ -15,7 +15,7 @@ namespace CartApp.Settings
         decimal ShippingBelowFee { get; }
         decimal ShippingAboveOrEqualFee { get; }
         decimal FragileSurcharge { get; }
-        decimal VatRate { get; }
+        decimal IVARate { get; }
         string ReceiptEmailTo { get; }
         string ReceiptEmailSubject { get; }
     }

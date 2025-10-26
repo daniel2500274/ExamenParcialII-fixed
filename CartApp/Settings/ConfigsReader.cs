@@ -14,7 +14,7 @@ namespace CartApp.Settings
         public decimal ShippingBelowFee => StaticConfig.ShippingBelowFee;
         public decimal ShippingAboveOrEqualFee => StaticConfig.ShippingAboveOrEqualFee;
         public decimal FragileSurcharge => StaticConfig.FragileSurcharge;
-        public decimal VatRate => StaticConfig.VatRate;
+        public decimal IVARate => StaticConfig.VatRate;
         public string ReceiptEmailTo => StaticConfig.ReceiptEmailTo;
         public string ReceiptEmailSubject => StaticConfig.ReceiptEmailSubject;
     }
